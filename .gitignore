@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.log
+
+# dotenv environment variables file
+.env
+
+# IDEs and editors
+/.idea
+.vscode/
+*.swp
+*.swo
+*.swn
+*.sublime-*
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
+dist/
+
+# Miscellaneous
+*.cache
+*.tmp
+*.sass-cache
+
+# Lock files (might want to include if everyone is using the same npm/yarn version)
+# package-lock.json
+# yarn.lock
